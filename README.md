@@ -1,8 +1,5 @@
 # tutorial_ntu_se
 
-## Hi All,
-Do we have  tutorial this week? It seems noone comes...
-
 ## Additional Materials
 - Tutorial 4
 
